@@ -6,7 +6,7 @@ This repository contains the code accompanying the paper:
 
 **"Rethinking Value Identification as Annotation Agreement: Evaluating LLMs as Human-like Value Annotators"**
 
-accepted at the **[Fourth International Workshop on Value Engineering in AI (VALE 2026)](https://vale2026.iiia.csic.es/)**, affiliated with **[IJCAI-ECAI 2026](https://ijcai-ecai-2026.org/)**.
+accepted at the **[Fourth International Workshop on Value Engineering in AI (VALE 2026)](https://vale2026.iiia.csic.es/)**, affiliated with **[IJCAI-ECAI 2026](https://2026.ijcai.org/)**.
 
 The project investigates whether Large Language Models (LLMs) behave similarly to human annotators in the task of value-based argument analysis. Rather than focusing solely on classification performance, this work evaluates agreement structures, label distributions and interpretative biases between LLM-generated annotations and human annotations.
 
